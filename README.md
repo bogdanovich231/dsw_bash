@@ -1,4 +1,4 @@
-#Cele ćwiczenia:
+# Cele ćwiczenia:
 - Utrwalenie składni w GiT]
 - Zapoznanie się z zarządzaniem gałęziami w GiT
 - Zapoznanie się z tworzeniem i korzystaniem z Tagów w GiT
